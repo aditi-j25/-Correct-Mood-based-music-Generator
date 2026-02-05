@@ -5,7 +5,7 @@ Tools:
 - **Typescript** for better and easier debugging and increasing code reliability
 - **Tailwind CSS** for the quick styling
 - **Next.js** for frontend and backend framework
-- **Postgres** using Supabase for Database and Auth
+- **Postgres/Supabase** using Supabase for Database and Auth
 - **Spotify API** for the Music library api( since its fee and has a large collection of music from  various languages)
 - For the **AI/Filtering LLM**, i will try to make my own. If it is not finished, then I will either use the **OpenAI API**(preferred) or the Anthropic Claude API, they are both good, free and reliable LLMs to be worked with. 
 
